@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "name": "rxjs-subject-vs-behavior-vs-replay-vs-async",
+    "description": "",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "clear": "echo empty project",
+        "clear:all": "rm -rf node_modules/ && npm run clear",
+        "test": "mocha --sort",
+        "watch": "mocha --watch"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.1.4",
+        "rxjs": "^6.5.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:piecioshka/rxjs-subject-vs-behavior-vs-replay-vs-async.git"
+    }
+}
