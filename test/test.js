@@ -15,8 +15,8 @@ function clock(time, times, tickFn, doneFn) {
 }
 
 function setup(input, output, subject, done) {
-    const delay = 50; // ms
-    const afterTwoTicks = 120; // ms
+    const delay = 30; // ms
+    const afterTwoTicks = 76; // ms
 
     clock(
         delay,
@@ -26,12 +26,13 @@ function setup(input, output, subject, done) {
     );
 
     setTimeout(() => {
-        subject.subscribe({
+        const sub = subject.subscribe({
             next(v) {
                 assert.equal(v, output.shift());
             },
             complete() {
                 done();
+                sub.unsubscribe();
             }
         });
     }, afterTwoTicks);
