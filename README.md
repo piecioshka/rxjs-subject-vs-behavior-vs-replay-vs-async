@@ -13,12 +13,12 @@ npm test
 
 ## Definitions
 
-Each next subscribers:
-
-* `Subject` — ...receive only upcoming values
-* `BehaviorSubject` — ...receive one previous value and upcoming values
-* `ReplaySubject` — ...receive all previous values and upcoming values
-* `AsyncSubject` — ...receive latest value when stream will close
+|   | Each next subscribers receive...
+|---|:---|
+|`Subject` | ...only upcoming values
+|`BehaviorSubject` | ...one previous value and upcoming values
+|`ReplaySubject` | ...all previous values and upcoming values
+|`AsyncSubject` | ...latest value when stream will close
 
 More details in [documentation](http://reactivex.io/documentation/subject.html).
 
