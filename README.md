@@ -24,7 +24,6 @@ More details in [documentation](http://reactivex.io/documentation/subject.html).
 ## Related
 
 * [test-rxjs](https://github.com/piecioshka/test-rxjs)
-* [rxjs-playground](https://github.com/piecioshka/rxjs-playground)
 * [test-angular-rxjs-race-condition-monkey-testing](https://github.com/piecioshka/test-angular-rxjs-race-condition-monkey-testing)
 * [slides-rxjs-look-behind](https://github.com/piecioshka/slides-rxjs-look-behind)
 * [compose](https://github.com/piecioshka/compose)
