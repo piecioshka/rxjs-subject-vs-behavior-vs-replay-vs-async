@@ -1,7 +1,6 @@
 # rxjs-subject-vs-behavior-vs-replay-vs-async
 
 [![travis](https://img.shields.io/travis/piecioshka/rxjs-subject-vs-behavior-vs-replay-vs-async.svg)](https://travis-ci.org/piecioshka/rxjs-subject-vs-behavior-vs-replay-vs-async)
-[![dependencies](https://david-dm.org/piecioshka/rxjs-subject-vs-behavior-vs-replay-vs-async.svg)](https://github.com/piecioshka/rxjs-subject-vs-behavior-vs-replay-vs-async)
 
 Compare `Subject` vs `BehaviorSubject` vs `ReplaySubject` vs `AsyncSubject`
 
