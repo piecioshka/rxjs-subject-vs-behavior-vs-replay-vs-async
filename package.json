@@ -18,8 +18,8 @@
     "dependencies": {},
     "devDependencies": {
         "chai": "^4.2.0",
-        "mocha": "^7.1.1",
-        "rxjs": "^6.5.4"
+        "mocha": "^8.2.1",
+        "rxjs": "^6.6.3"
     },
     "repository": {
         "type": "git",
