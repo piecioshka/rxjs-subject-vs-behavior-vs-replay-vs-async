@@ -30,4 +30,4 @@ More details in [documentation](http://reactivex.io/documentation/subject.html).
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2019
+[The MIT License](http://piecioshka.mit-license.org) @ 2019-2022
