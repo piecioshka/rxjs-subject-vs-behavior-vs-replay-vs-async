@@ -1,7 +1,5 @@
 # rxjs-subject-vs-behavior-vs-replay-vs-async
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/rxjs-subject-vs-behavior-vs-replay-vs-async.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/rxjs-subject-vs-behavior-vs-replay-vs-async)
-
 Compare `Subject` vs `BehaviorSubject` vs `ReplaySubject` vs `AsyncSubject`
 
 ## Unit tests
